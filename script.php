@@ -15,7 +15,7 @@
 
                 //Exemple : Ajout de l'utilisateur en base de données à cet endroit
                 $success = 1;
-                $msg = "";
+                $msg = "Inscription réussie";
 
             }else{
                 $msg = "Adresse email invalide.";

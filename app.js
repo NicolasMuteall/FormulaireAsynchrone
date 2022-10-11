@@ -13,6 +13,7 @@ document.getElementById("inscription").addEventListener("submit", function(e){
             var res = this.response;
 
             if(res.success){
+                alert(res.msg)
                 console.log("Utilisateur inscrit!");
             }else{
                 alert(res.msg);

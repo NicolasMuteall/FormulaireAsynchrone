@@ -12,7 +12,8 @@
         <input type="text" placeholder="pseudo" name="pseudo"><br>
         <input type="email" placeholder="email" name="email"><br>
         <input type="password" placeholder="mot de passe" name="mdp"><br>
-        <input type="submit" value="inscription">       
+        <input type="submit" value="inscription">
+        <input type="reset">       
     </form>
     <script src="app.js"></script>
 </body>
